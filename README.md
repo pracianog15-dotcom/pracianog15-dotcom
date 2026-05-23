@@ -57,7 +57,7 @@ Meu objetivo é criar projetos modernos, funcionais e visualmente impactantes en
 
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://github.com/pracianog15-dotcom">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
